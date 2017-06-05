@@ -1,0 +1,52 @@
+body {
+	margin: 10px;
+}
+.cart {
+	height: 530px;
+	width: 380px;
+	border: 2px solid #5a5a5a;
+	box-sizing: border-box;
+}
+.lenovo {
+	height: 85px;
+	width: 380px;
+	text-align: center;
+	font-size: 22px;
+	font-family: tahoma;
+	margin: 0;
+
+}
+.phone {
+	height: 288px;
+	margin-left: 62px;
+}
+.credit {
+	height: 31px;
+	width: 190px;
+	background: #8bc144;
+	box-shadow: -3px 2px #9c9c9c;
+	text-align: center;
+	font-size: 22px;
+	font-family: tahoma;
+	color: white;
+}
+.price {
+	height: 66px;
+	text-align: center;
+	font-size: 31px;
+	line-height: 60px;
+	font-family: tahoma;
+	margin: 0;
+}
+.buy {
+	height: 46px;
+	width: 228px;
+	margin-left: 62px;
+	background: #ff0000;
+	text-shadow: -1px 1px #000000;
+	text-align: center;
+	font-size: 28px;
+	font-family: tahoma;
+	color: white;
+	box-shadow: -1px 4px 0 -1px #850000;
+}

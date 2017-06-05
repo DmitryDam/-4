@@ -1,0 +1,32 @@
+.main {
+	height: 600px;
+	width: 600px;
+	background: #850000;
+	margin: auto;
+	position: relative;
+}
+.bishop, .rook, .knight, .white {
+	height: 200px;
+	width: 200px;
+	position: absolute;
+}
+img {
+	background-color: white;
+}
+.bishop {
+	left: 200px;
+	top: 0;
+}
+.rook {
+    right: 200px;
+    top: 400px;
+}
+.knight {
+	right: 400px;
+    top: 200px;
+}
+.white {
+	background: white;
+	bottom: 200px;
+	left: 400px;
+}
